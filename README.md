@@ -45,4 +45,4 @@ Contributions to improve the project are welcome. Please follow the standard Git
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Bahareh0281/RAG-Text-Generation/blob/main/LICENSE) file for details.
